@@ -296,7 +296,7 @@
 	</References>
 	<Files>
 		<File
-			RelativePath="..\..\programs\pkey\ecdsa1.c"
+			RelativePath="..\..\programs\pkey\ecdsa.c"
 			>
 		</File>
 	</Files>
